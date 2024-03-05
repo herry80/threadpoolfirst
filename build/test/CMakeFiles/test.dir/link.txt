@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test.dir/test.cpp.o -o ../../bin/test   -L/home/My/Desktop/project/threadpool/lib  -Wl,-rpath,/home/My/Desktop/project/threadpool/lib ../../lib/libthreadpool.so 

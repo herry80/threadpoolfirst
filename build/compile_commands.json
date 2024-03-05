@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/My/Desktop/project/threadpool/build/src",
+  "command": "/usr/bin/g++ -Dthreadpool_EXPORTS -I/home/My/Desktop/project/threadpool/include -g -fPIC -o CMakeFiles/threadpool.dir/threadpool.cpp.o -c /home/My/Desktop/project/threadpool/src/threadpool.cpp",
+  "file": "/home/My/Desktop/project/threadpool/src/threadpool.cpp"
+},
+{
+  "directory": "/home/My/Desktop/project/threadpool/build/test",
+  "command": "/usr/bin/g++  -I/home/My/Desktop/project/threadpool/include -g -o CMakeFiles/test.dir/test.cpp.o -c /home/My/Desktop/project/threadpool/test/test.cpp",
+  "file": "/home/My/Desktop/project/threadpool/test/test.cpp"
+}
+]

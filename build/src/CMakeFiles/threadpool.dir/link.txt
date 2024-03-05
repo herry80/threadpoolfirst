@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libthreadpool.so -o ../../lib/libthreadpool.so CMakeFiles/threadpool.dir/threadpool.cpp.o   -L/home/My/Desktop/project/threadpool/lib 
